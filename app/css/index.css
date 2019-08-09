@@ -1,6 +1,8 @@
 @import "./normalize.css";
 @import "./fonts.css";
+@import "./slick.css";
 @import "./blocks/header.css";
+@import "./blocks/slider.css";
 
 * {
   box-sizing: border-box;
