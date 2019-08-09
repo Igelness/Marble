@@ -3,6 +3,7 @@
 @import "./slick.css";
 @import "./blocks/header.css";
 @import "./blocks/slider.css";
+@import "./blocks/features.css";
 
 * {
   box-sizing: border-box;
