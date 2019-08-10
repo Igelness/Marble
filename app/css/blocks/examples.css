@@ -3,6 +3,7 @@
 }
 
 .examples__title {
+  
   font-size: 18px;
   line-height: 65px;
   font-weight: 700;
@@ -21,6 +22,7 @@
 
 .examples__item-title {
   font-family: 'Roboto Slab', sans-serif;
+  font-weight: 700;
   font-size: 18px;
   line-height: 50px;
   color: #4e4e4e;

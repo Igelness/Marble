@@ -28,17 +28,17 @@
 }
 
 .slider__item-btn {
-  color: #fff;
+  display: inline-block;
+}
+
+.slider__item-btn a {
+  display: block;
   text-transform: uppercase;
   font-family: "Roboto Condensed", "sans-serif";
   background-color: #3f8dbf;
   padding: 17px 23px 14px;
   border-bottom: solid 3px #3678a3;
   border-radius: 2px;
-  display: inline-block;
-}
-
-.slider__item-btn a {
   color: #f3f8fb;
 }
 
