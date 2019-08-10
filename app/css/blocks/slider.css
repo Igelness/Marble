@@ -38,6 +38,10 @@
   display: inline-block;
 }
 
+.slider__item-btn a {
+  color: #f3f8fb;
+}
+
 .slick-slide {
   outline: none;
 }

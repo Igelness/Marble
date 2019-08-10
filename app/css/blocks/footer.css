@@ -1,0 +1,94 @@
+.footer {
+  background-color: #1f1f1f;
+  min-height: 460px;
+  border-top: 9px solid #161616;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  border-bottom: 2px solid #383838;
+}
+
+.footer__title {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 22px;
+  color: #6c6c6c;
+  font-weight: 700;
+}
+
+.footer__content_inner {
+  font-family: "Roboto", sans-serif;
+  line-height: 24px;
+  color: #cacaca;
+}
+
+.footer__content_inner a {
+  color: #cacaca;
+}
+
+.footer__content-location,
+.footer__content-twitter,
+.footer__content-posts,
+.footer__content-about {
+  max-width: 250px;
+}
+
+.footer__location-text {
+  margin-bottom: 35px;
+}
+
+.footer__twitter-post:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.footer__location-address::before,
+.footer__location-phone::before,
+.footer__location-email::before,
+.footer__twitter-post::before {
+  font-family: "icomoon";
+  color: #a89574;
+  padding-right: 15px;
+}
+
+.footer__location-address::before {
+  content: "\f041";
+}
+
+.footer__location-phone::before {
+  content: "\f095";
+}
+
+.footer__location-email::before {
+  content: "\f003";
+  padding-right: 11px;
+}
+
+.footer__twitter-post::before {
+  content: "\f099";
+}
+
+.footer__posts-date {
+  font-family: "Roboto Slab";
+  font-size: 12px;
+  line-height: 25px;
+}
+
+.footer__posts-date:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.footer__about-first {
+  margin-bottom: 25px;
+}
+
+.footer__copy {
+  font-family: "Roboto", sans-serif;
+  line-height: 22px;
+  color: #cacaca;
+  margin-top: 50px;
+}
