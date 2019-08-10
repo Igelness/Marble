@@ -1,0 +1,26 @@
+.quote {
+  background-color: #efefef;
+  min-height: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+}
+
+.quote__symbol {
+  font-family: 'Arial Rounded MT', sans-serif;
+  font-size: 100px;
+  line-height: 35px;
+  color: #dcdcdc;
+  margin-top: 5px;
+}
+
+.quote__text {
+  font-family: "Roboto Slab", "sans-serif";
+  font-size: 20px;
+  line-height: 30px;
+  color: #a1a1a1;
+  max-width: 750px;
+  text-align: center;
+}
