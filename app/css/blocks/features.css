@@ -1,11 +1,12 @@
 .features {
   padding: 30px 15px 0px;
-  border-bottom: 2px solid #dcdcdc;
 }
 
 .features__inner {
   display: flex;
   justify-content: space-around;
+  padding-bottom: 25px;
+  border-bottom: 2px solid #dcdcdc;
 }
 
 .features__inner-content {
