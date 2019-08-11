@@ -29,6 +29,7 @@
 
 .slider__item-btn {
   display: inline-block;
+  cursor: pointer;
 }
 
 .slider__item-btn a {
