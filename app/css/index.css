@@ -1,6 +1,7 @@
 @import "./normalize.css";
 @import "./fonts.css";
 @import "./slick.css";
+@import "./jquery.fancybox.css";
 @import "./blocks/header.css";
 @import "./blocks/slider.css";
 @import "./blocks/features.css";
