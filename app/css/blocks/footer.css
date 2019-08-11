@@ -92,3 +92,15 @@
   color: #cacaca;
   margin-top: 50px;
 }
+
+.footer__scroll-btn {
+  text-align: end;
+  display: inline;
+}
+
+.footer__scroll-btn a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: #cacaca;
+  line-height: 70px;
+}

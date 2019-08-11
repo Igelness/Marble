@@ -1,6 +1,7 @@
 .header {
   height: 123px;
   background-color: #e5e5e5;
+  outline: none;
 }
 
 .header__content {
