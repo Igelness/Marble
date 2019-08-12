@@ -1,9 +1,8 @@
-.examples{
+.examples {
   margin-top: 36px;
 }
 
 .examples__title {
-  
   font-size: 18px;
   line-height: 65px;
   font-weight: 700;
@@ -21,7 +20,7 @@
 }
 
 .examples__item-title {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 50px;
@@ -29,7 +28,7 @@
   margin-top: 5px;
 }
 .examples__item-desc {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 13px;
   line-height: 15px;
   color: #a8a8a8;
@@ -37,7 +36,7 @@
 
 .examples__item-text {
   margin-top: 25px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   line-height: 28px;
   color: #838383;
 }

@@ -2,6 +2,7 @@
 @import "./fonts.css";
 @import "./slick.css";
 @import "./jquery.fancybox.css";
+@import "./media.css";
 @import "./blocks/header.css";
 @import "./blocks/slider.css";
 @import "./blocks/features.css";
@@ -35,4 +36,8 @@ li {
 .container {
   max-width: 1170px;
   margin: 0 auto;
+}
+
+#modal {
+  display: none;
 }
