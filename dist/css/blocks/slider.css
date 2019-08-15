@@ -1,16 +1,16 @@
 .slider {
-  height: 600px;
+  min-height: 600px;
   background-image: url("../../img/bg-slider.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  display: flex;
-  align-items: center;
 }
 
-.slider__item-content {
+.slider__item {
   text-align: center;
+  padding-top: 150px;
 }
+
 .slider__item-title,
 .slider__item-text {
   font-family: "Roboto Slab", "sans-serif";
